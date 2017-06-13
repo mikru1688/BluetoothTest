@@ -1,2 +1,2 @@
 # BluetoothTest
-Use CoreBluetoth library to scan Device
+Use CoreBluetoth library to scan device and connect
